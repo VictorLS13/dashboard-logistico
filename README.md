@@ -87,7 +87,7 @@ Abaixo, seguem prints das páginas e visuais criados:
 
 ## 📌 Autor
 
-[João Victor]  
+João Victor Lima
  
  
 
