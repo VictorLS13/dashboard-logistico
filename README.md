@@ -18,6 +18,13 @@ O dashboard contempla os seguintes KPIs:
 - **Custo Médio de Entrega (R$)**: média de custo por pedido entregue.
 - **Capacidade Média de Ocupação dos Veículos (%)**: indicador de eficiência da utilização dos veículos de transporte.
 
+
+---
+
+## 🔗 Link do Relatório
+
+[📊 Acesse o dashboard publicado aqui]([https://coloque-seu-link-aqui](https://app.powerbi.com/view?r=eyJrIjoiYjhjMTdlMjYtNmViNS00ZTgwLTg4YTEtNzY4MzAzNjZlNzc5IiwidCI6IjZkMzFhNjdkLWEyNTEtNDc0Ny05ODllLWUyYzk1ODY4MmFlMCJ9))
+
 ---
 
 ## 🧮 Medidas DAX Criadas
