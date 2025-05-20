@@ -23,7 +23,7 @@ O dashboard contempla os seguintes KPIs:
 
 ## 🔗 Link do Relatório
 
-[📊 Acesse o dashboard publicado aqui]([https://coloque-seu-link-aqui](https://app.powerbi.com/view?r=eyJrIjoiYjhjMTdlMjYtNmViNS00ZTgwLTg4YTEtNzY4MzAzNjZlNzc5IiwidCI6IjZkMzFhNjdkLWEyNTEtNDc0Ny05ODllLWUyYzk1ODY4MmFlMCJ9))
+[📊 Acesse o dashboard publicado aqui](https://app.powerbi.com/view?r=eyJrIjoiYjhjMTdlMjYtNmViNS00ZTgwLTg4YTEtNzY4MzAzNjZlNzc5IiwidCI6IjZkMzFhNjdkLWEyNTEtNDc0Ny05ODllLWUyYzk1ODY4MmFlMCJ9)
 
 ---
 
